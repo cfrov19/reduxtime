@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reduxtime/static/css/main.5190c2a5.css",
+    "main.js": "/reduxtime/static/js/main.d9970029.js",
+    "index.html": "/reduxtime/index.html",
+    "main.5190c2a5.css.map": "/reduxtime/static/css/main.5190c2a5.css.map",
+    "main.d9970029.js.map": "/reduxtime/static/js/main.d9970029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5190c2a5.css",
+    "static/js/main.d9970029.js"
+  ]
+}
